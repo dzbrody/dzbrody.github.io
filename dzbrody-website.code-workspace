@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\images"
+		},
+		{
+			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\js"
+		},
+		{
+			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\css"
+		},
+		{
+			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\flaticon"
+		},
+		{
+			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dzbrody.github.io"
+	}
+}
