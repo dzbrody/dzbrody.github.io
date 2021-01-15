@@ -23,7 +23,7 @@ Version: 1.0
 
 /* header section start*/
 .header {
-    background: url('images/header-bg.jpg') right center no-repeat;
+    background: url('images/header-bg.png') right center no-repeat;
     padding: 60px 0 170px;
 }
 .header-menu {
