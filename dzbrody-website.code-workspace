@@ -1,22 +1,28 @@
 {
 	"folders": [
 		{
+			"name": "dzbrody.github.io",
 			"path": "."
 		},
 		{
-			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\images"
+			"name": "js",
+			"path": "js"
 		},
 		{
-			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\js"
+			"name": "css",
+			"path": "css"
 		},
 		{
-			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\css"
+			"name": "images",
+			"path": "images"
 		},
 		{
-			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\flaticon"
+			"name": "flaticon",
+			"path": "flaticon"
 		},
 		{
-			"path": "..\\..\\Downloads\\elements-mg-portfolio-and-resume-html5-template-GALVFR3-oeoiE8WT-07-19\\mg-html\\fonts"
+			"name": "fonts",
+			"path": "fonts"
 		}
 	],
 	"settings": {
