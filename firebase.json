@@ -1,5 +1,22 @@
 {
   "hosting": {
+    "redirects": [
+      {
+        "source": "/about",
+        "destination": "/index.html#about",
+        "type": 301
+      },
+      {
+        "source": "/contact",
+        "destination": "/index.html#contact",
+        "type": 302
+      },
+      {
+        "source": "/blog",
+        "destination": "/blog.html",
+        "type": 301
+      }
+    ],
     "public": "public",
     "ignore": [
       "firebase.json",
